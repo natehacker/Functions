@@ -10,7 +10,7 @@ function add(num1,num2){
 }
 add(100,100)
 
-//filer methodology
+//filter methedology
 const numbers =[1,3,4,-4,10]
 const filtered = numbers.filter(function(value){
 return value >= 0;
@@ -30,3 +30,23 @@ function add(value){
 return value + 5
 }
 console.log(one)
+
+// for loops
+
+for (i=0;i<3;i++){
+console.log("nathan ",i)
+}
+
+
+let tv = 36
+if (tv > 40){
+    console.log("let buy this ")
+} else{
+    console.log("no")
+}
+const people = {
+    name:"john",
+    age:78,
+    race:"black"
+}
+console.log(people.name)
