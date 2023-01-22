@@ -50,3 +50,24 @@ const people = {
     race:"black"
 }
 console.log(people.name)
+
+function hello(num1,num2){
+console.log(num1 - num2) 
+}
+hello(23,45)
+
+let you = [565,78,89808,09] 
+let me = you.map(double)
+function double(value){
+    return value * 34
+}
+console.log(me)
+
+
+// reverse the word new york 
+
+let city = "new york"
+.split("")
+.reverse("")
+.join("")
+console.log(city)
