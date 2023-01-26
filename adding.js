@@ -14,3 +14,15 @@ function hello (num1,num3){
     console.log(num1 + num3)
 }
 hello(50,50)
+
+function baby(num1,num2){
+    console.log( num1 + num2)
+
+}
+baby(45,45)
+
+function nathan(people,person){
+console.log(people + person)
+
+}
+nathan(45,45)
