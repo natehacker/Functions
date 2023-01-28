@@ -62,3 +62,29 @@ function double (value){
     return value * 5
 }
 console.log(human)
+
+
+for (let i = 1; i <= 30; i++){
+    if(i % 3 == 0)
+        console.log("nathan");
+        else if (i % 5)
+        console.log("louissaint")
+        else
+        console.log(i)
+
+
+}
+
+function fizzBuzz(){
+    for (let i = 1; i <= 30; i++){
+        if(i % 3 == 0)
+            console.log("nathan");
+            else if (i % 5)
+            console.log("louissaint")
+            else
+            console.log(i)
+    
+    
+    }  
+}
+fizzBuzz()
