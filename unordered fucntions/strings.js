@@ -7,3 +7,20 @@ let nathan = "Google LLC is an American multinational technology company focusin
 console.log(nathan)
 
 
+let people = "people"
+.split("")
+.reverse("")
+.join("")
+console.log(people)
+
+let louissaint = "nathan"
+.split("")
+.reverse("")
+.join("")
+console.log(louissaint)
+
+let you = "hello"
+.split("")
+.reverse("")
+.join("")
+console.log(you)
