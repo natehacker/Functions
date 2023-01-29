@@ -21,3 +21,13 @@ let nick2 = 100
 if(nick === nick2){
 console.log("this is strictly equal")
 }
+
+let chill  = 80
+let man = 90
+
+if(chill >= man){
+    console.log("chill man")
+}
+else{
+    console.log("man you need to stop")
+}

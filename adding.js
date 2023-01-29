@@ -26,3 +26,16 @@ console.log(people + person)
 
 }
 nathan(45,45)
+
+function nathan(num1,num2){
+ console.log(num1 * num2) 
+
+}
+
+nathan(30,30)
+
+function jump(num1, num2){
+console.log(num1 % num2) 
+}
+jump(100,2)
+
