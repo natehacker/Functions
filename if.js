@@ -31,3 +31,11 @@ if(chill >= man){
 else{
     console.log("man you need to stop")
 }
+
+let book = 60
+let bag = 90
+if(bag >= book){
+    console.log("better bag")
+}else (
+    console.log("not worth it")
+)

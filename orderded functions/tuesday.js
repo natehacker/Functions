@@ -38,3 +38,13 @@ const arr3 = [5,6]
 
 const allArr = arr1.concat(arr2,arr3)
 console.log(allArr)
+
+// Map() method 
+//lets map an array and return all the number multipled by 5 
+
+let nathan = [5,10,15,20,25]// increase all the numbers in this array by * 5
+let louissaint = nathan.map(double)// creating a new variable called louissaint hehehe my last name lol i dont know why i just did that its not even funnny im lame 
+function double (value){ //creating a function called double and about to pass it to value
+console.log(value * 5)
+}
+louissaint()//calling the function 

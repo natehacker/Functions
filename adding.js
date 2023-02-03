@@ -39,3 +39,8 @@ console.log(num1 % num2)
 }
 jump(100,2)
 
+
+function zoom (num1,num2){
+    console.log(num1 + num2)
+}
+zoom(50,50)

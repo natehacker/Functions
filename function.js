@@ -101,3 +101,8 @@ function double(value){
 double()
 
 
+let nate = "hello"
+.split("")
+.reverse("")
+.join("")
+console.log(nate)

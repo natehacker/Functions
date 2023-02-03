@@ -24,3 +24,9 @@ let you = "hello"
 .reverse("")
 .join("")
 console.log(you)
+
+let book = "bag"
+.split("")
+.reverse("")
+.join("")
+console.log(book)
